@@ -1,0 +1,12 @@
+{
+    "name": "GIFT",
+    "version": "0.0.1",
+    "author": "Samuel Ytterbrink <neppord@gmail.com>",
+    "discription": "A easy-to-use environment for discovering and teaching programming",
+    "dependencies": {
+        "coffee-script": "*",
+        "requirejs": "2.1.5",
+        "mocha": "1.8.2",
+        "chai": "1.5.0"
+    }
+}
